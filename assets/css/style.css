@@ -1117,7 +1117,7 @@ section {
   margin-bottom: 15px;
   background: #153F72;
   color: #fff;
-  border-top: 4px solid #fdd430;
+  border-top: 4px solid rgba(213, 213, 213, 0.84);
   text-align: center;
   padding: 30px 20px;
 }
@@ -1222,7 +1222,7 @@ section {
   background: #fdd430;
 }
 #footer .copyright {
-  border-top: 1px solid #262626;
+  border-top: 4px solid rgba(213, 213, 213, 0.84);
   text-align: center;
   padding-top: 30px;
 }
@@ -1233,7 +1233,7 @@ section {
   color: #fff;
 }
 #footer .credits a {
-  color: #fdd430;
+  color: #9d9d9b;
 }
 @media (max-width: 575px) {
   #footer .footer-top .footer-info {
